@@ -1,5 +1,5 @@
 <h1 align="center">Hola, mi nombre es Diego Almeida</h1>
-<h3 align="center">Soy un desarrollador Backend apasionado con la tecnologia</h3>
+<h3 align="center">Soy un desarrollador Backend apasionado por la tecnologia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
