@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Diego Almeida</h1>
 <h3 align="center">Soy un Analista QA que busca seguir aprendiendo y adentrarme mas hacia la automatización.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacto:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diego-almeida-dma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-almeida-dma" height="30" width="40" /></a>
 </p>
