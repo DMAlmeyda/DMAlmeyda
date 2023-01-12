@@ -1,5 +1,5 @@
 <h1 align="center">Hola soy Diego Almeida</h1>
-<h3 align="center">Soy un Analista QA que busca seguir aprendiendo y adentrarme mas hacia la automatización.</h3>
+<h3 align="center">Soy un Analista QA que le encanta aprender y buscar que nuevas formas de verificar la calidad de un software.</h3>
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
